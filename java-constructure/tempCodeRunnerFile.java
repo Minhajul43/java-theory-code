@@ -1,19 +1,4 @@
-public class Main{
-  // Creating a constructor
-  Main() {
-    System.out.println("Hello, World!");
-  }
-
-  public static void main(String[] args) {
-    System.out.println("The main() method.");
-
-    // Creating a class's object
-    // that will invoke the constructor
-    Main obj1 = new Main();
-  }
-}
-
-// public class Main {
+public class Main {
 //   int num1;
 //   int num2;
 
